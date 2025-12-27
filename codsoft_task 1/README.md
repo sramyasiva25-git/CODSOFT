@@ -1,36 +1,37 @@
-# 📝 To-Do List Application
+#  To-Do List Application
  
- ## 📌 Description
+ ##  Description
 
-This project is a simple To-Do List application developed using Python.
+   This project is a simple To-Do List application developed using Python.
 It allows users to add tasks, view tasks, and delete tasks using a menu-driven program in the console.
 
-## ✨ Features
+##  Features
 
-Add new tasks to the list
+  - Add new tasks to the list
 
-View all added tasks
+  - View all added tasks
 
-Delete a selected task
+  - Delete a selected task
 
-Exit option to close the application
+  - Exit option to close the application
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-Python
+  - Python
 
-## ▶️ How to Run
+##  How to Run
 
-Open the project folder in VS Code
+  - Open the project folder in VS Code
 
-Run the following command in the terminal:
+  - Run the following command in the terminal:
 
-python todo_list.py
+  - python todo_list.py
 
 
-Follow the menu options displayed on the screen
+  - Follow the menu options displayed on the screen
 
-## 🎓 Internship Task
+##  Internship Task
 
 Python Programming Internship – Task 1
+
 To-Do List Application using basic Python concepts
